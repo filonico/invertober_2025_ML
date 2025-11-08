@@ -22,10 +22,10 @@ GCA_000376725.2	Lful	21	Ladona_fulva    Libellula_saturata**	Odonata 40
 GCA_032362205.1	Clim	22	Clione_limacina Clione_limacina	Gasteropoda 85
 GCA_002278615.1	Pcha	23	Pogonus_chalceus    Cicindela_albissima**	Coleoptera  70
 GCA_037379345.1	Pvir	24	Perna_viridis   Perna_canaliculus*	Bivalvia    75
-GCA_949358305.1	Sacu	25	Strigamia_acuminata Scutigera_coleoptrata**	Chilopoda   NA
-GCA_034508935.3	Bste	26	Berghia_stephanieae Joruna_parva**	Gastropoda  NA
-GCF_043290135.1	Rmic	27	Rhipicephalus_microplus Dermacentor_variabilis**	Arachnida   NA
-GCA_020423425.1	Cpal	28	Chrysopa_perla  Chrysopa_perla	Neuroptera  NA
-GCA_037976565.1	Mfra	29	Mesocentrotus_franciscanus  Mesocentrotus_franciscanus	Echinodermata   NA
+GCA_949358305.1	Sacu	25	Strigamia_acuminata Scutigera_coleoptrata**	Chilopoda   70
+GCA_034508935.3	Bste	26	Berghia_stephanieae Joruna_parva**	Gastropoda  70
+GCF_043290135.1	Rmic	27	Rhipicephalus_microplus Dermacentor_variabilis**	Arachnida   80
+GCA_020423425.1	Cpal	28	Chrysopa_perla  Chrysopa_perla	Neuroptera  75
+GCA_037976565.1	Mfra	29	Mesocentrotus_franciscanus  Mesocentrotus_franciscanus	Echinodermata   65
 GCF_036711975.1	Otau	30	Onthophagus_taurus  Anoplognathus_pallidicollis** Coleoptera    NA
 GCA_964340655.1	Aatr	31	Agrius_convolvuli   Acherontia_atropos**	Lepidoptera NA
