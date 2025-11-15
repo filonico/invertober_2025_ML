@@ -27,4 +27,4 @@ grep "C:" 02_busco/*/short*txt | cut -d_ -f3,8 | sed -E 's/_genomic\.fna\.busco\
 
 python ../phySCO/phySCO.py -i 02_busco/ -o 03_ML -g 100 -m
 
-python scripts/ReDictio.py -f 03_ML_withOUT/MLtree.treefile -d 00_input/ID_species_conversion.tsv -i new
+python scripts/05_ReDictio.py -f 03_ML_withOUT/MLtree.treefile -d 00_input/ID_species_conversion.tsv -i new
