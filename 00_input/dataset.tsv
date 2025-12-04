@@ -1,5 +1,5 @@
-genome_used sp_ID   invertober_day  genome_species  invertober_species  phylum  class    difficulty_level    satisfaction_level    
-GCA_014526335.2	Cqui	01	Chrysaora_quinquecirrha	Chrysaora_pacifica*	Cnidaria Schyphozoa	85  90
+genome_used sp_ID   invertober_day  genome_species  invertober_species  phylum  class   difficulty_level    satisfaction_level
+GCA_014526335.2	Cqui	01	Chrysaora_quinquecirrha	Chrysaora_pacifica*	Cnidaria    Schyphozoa	85  90
 GCF_021130785.1	Hvit	02	Homalodisca_vitripennis	Graphocephala_coccinea**	Arthropoda  Insecta	75  90
 GCA_964019055.1	Axan	03	Anthopleura_xanthogrammica	Anthopleura_xanthogrammica	Cnidaria    Anthozoa	40 75
 GCF_030347505.1	Rfer	04	Rhynchophorus_ferrugineus	Rhynchophorus_cruentatus*	Arthropoda  Insecta	90  45
