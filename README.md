@@ -30,7 +30,7 @@ But afterwards, I also realized that I was having in my hands a full phylogeneti
 <img src="figures\final_tree.png" alt="invertober tree">
 The image above is a ML phylogenetic tree as easy as it can be. Just a plain topology, with branch lengths proportional to the degree of genetic change between two nodes. Bootstrap supports are maximum (100) for every node, except were noted.
 
-**Represented phyla** are coded by colors and indicated by a text label next to their node (when possible).
+**Represented phyla** are coded by colors and indicated by a text label next to their node (when possible). Animal figures *not* in scale.
 
 At tips, species names as indicated in the invertober2025 prompt are reported. Note that for some species the genome was not available (at least on NCBI, the only repository that I checked). In those cases I decided to rely on a closely related taxon. Specifically, if you find an asterisk ('<code>\*</code>') next to the tip name, it means that I used a genome from a species in the same genus. Conversely, if you find two asterisks ('<code>\*\*</code>'), it means that I used a genome from a species in a different genus.
 
